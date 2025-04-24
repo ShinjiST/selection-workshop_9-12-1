@@ -21,7 +21,7 @@
 **Тест інтерактивності базового прототипу (wireframe)** — демонстрація первинного клікабельного прототипу перед переходом до розробки макету  
 
 <p align="center">
-  <img src="images/Figma(workspace).png" alt="Скріншот вайрфрейму" height="400px">
+  <img src="images/Figma(workspace).png" alt="Скріншот вайрфрейму" height="800px">
 </p>
 
 <p align="center">
